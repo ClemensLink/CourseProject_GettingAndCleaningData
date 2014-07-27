@@ -30,7 +30,7 @@ The raw data set contains 68 variables as described at http://archive.ics.uci.ed
 
  * `subject` - identifier of the subject who carried out the experiment.
  * `label` - activity label.
- * The 66 other features are **described as follows (quoted from the source mentioned above): 
+ * The 66 other features are `described as follows (quoted from the source mentioned above)`: 
 
 The features selected for this database come from the accelerometer and
 gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals
