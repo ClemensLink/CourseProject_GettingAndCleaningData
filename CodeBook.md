@@ -1,5 +1,3 @@
-# Getting and Cleaning Data Course Project
-
 This course project belongs to the Coursera course "Getting and Cleaning Data" from Johns Hopkins University
 
 ## The R Script
