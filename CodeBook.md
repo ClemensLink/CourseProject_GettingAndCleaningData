@@ -2,7 +2,7 @@ This course project belongs to the Coursera course "Getting and Cleaning Data" f
 
 ## The R Script
 
-The R script contains a function `run.analysis()` that performs the following tasks:
+The R script performs the following tasks:
  * (1) merges the training and the test sets to create one data set.reads training data sets, create row numbers as values for the ID column and merge all three
  * (1a) reads training data sets, create row numbers as values for the ID column and merge all three
  * (1b) reads test data sets, create row numbers as values for the ID column and merge all three
@@ -76,4 +76,4 @@ The set of variables that were estimated from these signals are:
 
 ### The tidy data
 
-The tidy data set contains the same variables as the raw data. These variables are renamed to ease readability and drive consistency
+The tidy data set contains the same variables as the raw data. These variables are renamed to ease readability and drive consistency. Details see comments in `run_analysis.R`
